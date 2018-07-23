@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+h1 {
+    color: silver;
+}
 body { 
     background-color: powderblue;
     font-family: Helvetica, sans-serif;
